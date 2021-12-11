@@ -105,8 +105,8 @@ td { background: black;
     text-align: center;
 }
 
-tr:nth-child(even) td { background: white; }  
+tr:nth-child(even) td { background: cadetblue; }  
 
 tr:nth-child(odd) td { background: cadetblue; } 
 
-tr td:hover { background: #666; color: #FFF; }
+tr td:hover { background: #666; color: cadetblue; }
